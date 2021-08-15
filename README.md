@@ -39,13 +39,21 @@ qmsg酱推送，替换掉token，详见https://qmsg.zendee.cn
 
 ![](https://997888.xyz/ImageHosting/75.png)
 
-### 4.效果
+### 4.定时运行
+
+使用crontab实现定时运行
+
+假如你的文件下载在/root，每小时运行一次
+
+0 */1 * * * . /etc/profile;python3 /root/Lighthouse-Monitor.py
+
+### 5.效果
 
 ![](https://997888.xyz/ImageHosting/76.png)
 
-### 5.写在最后
+### 6.写在最后
 
-这是年轻人的第一个Python脚本，请大家多多指教。
+这是年轻人的第一个Python脚本，请大家多多指教。给个Start！
 
 博客：https://www.edgelogs.com
 
