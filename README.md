@@ -43,6 +43,14 @@ qmsg酱推送，替换掉token，详见https://qmsg.zendee.cn
 
 ![](https://997888.xyz/ImageHosting/76.png)
 
+### 5.写在最后
+
+这是年轻人的第一个Python脚本，请大家多多指教。
+
+博客：https://www.edgelogs.com
+
+再次感谢[@2lifetop](https://github.com/2lifetop/LightHouse_Automatic_Shutdown)的项目！！！
+
 
 
 
